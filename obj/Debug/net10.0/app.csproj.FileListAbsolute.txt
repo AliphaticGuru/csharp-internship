@@ -12,3 +12,4 @@
 /home/rustiguru/Documents/CsharpTest/app/obj/Debug/net10.0/app.pdb
 /home/rustiguru/Documents/CsharpTest/app/obj/Debug/net10.0/app.genruntimeconfig.cache
 /home/rustiguru/Documents/CsharpTest/app/obj/Debug/net10.0/ref/app.dll
+/home/rustiguru/Documents/CsharpTest/app/obj/Debug/net10.0/app.sourcelink.json

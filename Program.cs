@@ -60,15 +60,19 @@ foreach (int item in items)
 Console.Write($"continue to task 5...:");
 Console.ReadLine();
 
-static void Greet(string alice)
+static void Greet(string name)
 {
-    Console.WriteLine("Hello, !");
+    // name = Console.ReadLine();
+    Console.WriteLine($"Hello, ! {name}");
 }
 
-static void Main()
-{
+// static void Main()
+// {
     Greet("Alice");
-}
+    Console.Write("Welcome Aboard!, What is your name?");
+    name = Console.ReadLine();
+    Greet(name);
+// }
 
-Main();
+// Main();
 
