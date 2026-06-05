@@ -52,9 +52,11 @@ Console.ReadLine();
 
 int[] items = {2,4,6,8,10};
 
+ // sum of all the elements in items
 int sum = items[0] + items[1] + items[2] + items[3] +items[4];
 Console.WriteLine(sum);
 
+// elements in items
 foreach (int item in items)
 {
     Console.WriteLine(item);
