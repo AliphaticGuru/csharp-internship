@@ -49,12 +49,17 @@ for (int i = 1; i <= 10; i++)
 Console.Write($"Continue to task 4...:");
 Console.ReadLine();
 
+
 int[] items = {2,4,6,8,10};
+
+int sum = items[0] + items[1] + items[2] + items[3] +items[4];
+Console.WriteLine(sum);
 
 foreach (int item in items)
 {
     Console.WriteLine(item);
 }
+
 
 // Task 5
 Console.Write($"continue to task 5...:");
